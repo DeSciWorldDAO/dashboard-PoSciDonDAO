@@ -1,1 +1,32 @@
+{"name":"PoSciDonDAO",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Funding for scientific research is highly centralized and is frequently subject to many forms of bias. This leads to politics-driven decisions, inefficient allocation of funds, lack of funding, favoritism and many other factors that hamper scientific progression. In addition, institutions own all the intellectual property (IP) and only a fraction or nothing of the proceeds are given to the scientists. A decentralized and unbiased, community-driven initiative is the solution to overcome these issues. Thus, the PoSciDonDAO Decentralized Autonomous Organisation (DAO) was created. PoSciDonDAO is a community-governed collective that efficiently funds personalized medicine research for many diseases, including solid and blood cancers; multiple sclerosis and rheumatoid arthritis, and monetizes data and IP assets generated as a result of the funded research. In this way, PoSciDonDAO is the first ever decentralized biotech organization focused on personalized therapies targeting life-altering diseases. PoSciDonDAO is built upon the PoSciDonDAO protocol. The PoSciDonDAO protocol is a set of smart contracts deployed on zkSync Era, a network on top of Ethereum’s distributed ledger technology, also known as blockchain. This protocol facilitates transactions from donors and investors to scientists by leveraging blockchain’s most important features: transparency, decentralization and censorship-resistance. The PoSciDonDAO protocol is designed in such a way that it does not only benefit scientific funding, but also investors, scientists and other members of the DAO. Using the PoSciDonDAO protocol, PoSciDonDAO can incentivize 1) the funding of personalized medicine research, 2) contributions of knowledge and skills and 3) participation in DAO-related activities including governance through a multi-token model. This multi-token model consists of two different tokens: $PO and $SCI.The $PO token is a non-tradable non-fungible token (NFT), also known as account-bound, that is received upon participation in governance-related activities. Staking of this NFT together with $SCI tokens allows you to receive yield in the form of $SCI tokens. The $SCI token is the only tradable token PoSciDonDAO will issue. Staking of this token provides members with the right to vote on proposals and have a say in PoSciDonDAO’s future. $SCI tokens can be earned through the execution of tasks for the DAO or can be retrieved through trading. Staking $SCI tokens makes members eligible to receive a part of the 30% of the proceeds from PoSciDonDAO’s commercialized data and IP assets.Using this token model, PoSciDonDAO encourages anyone to join the organization including scientists, entrepreneurs, investors and other decentralized science enthusiasts. PoSciDonDAO creates a decentralized, democratized and non-discriminatory organization that will revolutionize and better personalized medicine research funding.",
+"whitePaperLink":"https://www.poscidondao.com/Whitepaper.pdf",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.poscidondao.com/blog",
+       "source": "image",
+       "link": "https://i.imgur.com/CRO4Xdf.png"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.poscidondao.com/sci-token",        "source": "image",
+       "link": "https://i.imgur.com/p6ivc7F.png"}],
+"deleted":false,
+"primaryColor":"#0b1de6",
+"twitterHandle":"PoSciDonDAO",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/JfhAvQW.jpg",
+"telegramLink":"https://t.me/+orlGVaLwlGVlZjI8",
+"discordLink":"https://discord.com/invite/Fyz8bYhpEA",
+"website":"https://www.poscidondao.com/",
+"tokenDescription":"The $SCI token is the only PoSciDonDAO tradable token. Staking of this token provides members with the right to vote on proposals and have a say in PoSciDonDAO’s future. ",
+"tokenTradeLink":"",
+"callToActionLink":"https://docs.google.com/forms/d/e/1FAIpQLScj5fun-KY86Ty3_IuUxeSSsFYaTMmbBloqNccUnNsrjurn8g/viewform",
+"tags":[ "Decentralized biotech", "Focused Research", "Decentralized funding"]
+}
+
 

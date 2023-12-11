@@ -7,13 +7,13 @@
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://www.poscidondao.com/blog",
+       "mediaUrl": "https://i.imgur.com/CRO4Xdf.pnghttps://www.poscidondao.com/blog",
        "source": "image",
-       "link": "https://i.imgur.com/CRO4Xdf.png"
+       "link": "https://www.poscidondao.com/blog"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://www.poscidondao.com/sci-token",        "source": "image",
-       "link": "https://i.imgur.com/p6ivc7F.png"}],
+       "mediaUrl": "https://i.imgur.com/p6ivc7F.png",        "source": "image",
+       "link": "https://www.poscidondao.com/sci-token"}],
 "deleted":false,
 "primaryColor":"#0b1de6",
 "twitterHandle":"PoSciDonDAO",
